@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "id": "3e447f08-83e9-49c4-be55-24e822307944",
+      "name": "Chilman Mehrotra",
+      "email": "Client Manager - chilman@spotabbl.com"
+    },
+    {
+      "id": "989b0f6d-dc43-48c4-8c5e-0382d7e54e04",
+      "name": "Saboor Sirwal",
+      "email": "Recruitment Success - saboor@spotabbl.com"
+    },
+    {
+      "id": "ee6b8329-c9ca-4572-8967-34f13bd77da1",
+      "name": "Smriti Wadhwa",
+      "email": "smriti@spotabbl.com"
+    },
+    {
+      "id": "d8ee8a71-2f29-4378-a673-b6b1e43f08ba",
+      "name": "Vanishri",
+      "email": "Client Manager - vani@spotabbl.com"
+    },
+    {
+      "id": "e171ffa1-ff97-40cf-8b62-ce4f0c20c906",
+      "name": " Vishal N",
+      "email": "Senior Manager - Recruitment Success - vishal@spotabbl.com"
+    },
+    {
+      "id": "7c463d42-28bc-4f3e-a615-04567b83d5ac",
+      "name": "Vidya Nagesh",
+      "email": "Recruitment Success - vidya@spotabbl.com"
+    },
+    {
+      "id": "83105056-7d82-48dd-b5f8-b04569ba4e4e",
+      "name": "Priyanka Singh",
+      "email": "Senior Recruiter -  priyanka@spotabbl.com"
+    },
+    {
+      "id": "44297474-a9ad-430d-a0d8-b0fb00c0f4a9",
+      "name": "Ajith KP",
+      "email": "Associate Principle - Leadership Hiring - ajith@spotabbl.com"
+    },
+    {
+      "id": "38ba96f1-e87e-4c84-aed4-3a43efd366a3",
+      "name": "Arbaaz Khatri",
+      "email": "Talent Acquistion Specialist - arbaz@spotabbl.com"
+    },
+    {
+      "id": "1799a207-09fb-4c46-9cae-718f6385d971",
+      "name": "Shristi  Verma",
+      "email": "Frotend Dev - shristiverma1311@gmail.com "
+    },
+    {
+      "id": "4fc6f731-d0f6-46e3-874d-31ae8db13adf",
+      "name": "Rahul",
+      "email": "rahul@spotabbl.com"
+    }
+  ]
+}
